@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.5",
+  "name": "ChineseChessClient",
+  "id": "c01708bc-abad-479e-ac65-b06d9dceb63c",
+  "isNew": false
+}
